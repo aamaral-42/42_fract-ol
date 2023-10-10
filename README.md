@@ -35,7 +35,7 @@ I just loved this project and it will be in a working in progress status for a l
 I used the following MACROS (in fractol.h) but you can play around with them
 
 - define **WIDTH 1280** ---------------- defines the width of the mlx window (maximum should be 1920)
-- define **RATIO (1.3333333)**- -------- defines the width to heigth ratio of the mlx window, this value represent a 4:3 ratio (closer to 1 will be a square)
+- define **RATIO 1.3333333**- -------- defines the width to heigth ratio of the mlx window, this value represent a 4:3 ratio (closer to 1 will be a square)
 - define **ITERATIONS 250** ------------ defines the maximum number of iterations to consider that point belongs to Mandelbrot or Julia set (more is better for better definition at borders of the sets but more computations are made)
 - define **CARTESIAN_DIST 8** ---------- defines the range/total_distance of the complex plane that will be passed to the mlx window (the higher the smaller the Mandelbrot and Julia sets will be, a bigger area of complex plane is represented in the window)
 - define **CONST_ZOOM 1.42** ----------- defines what level of zoom will be applied at each mouse scroll (higher zoom the change will be very fast)
