@@ -1,5 +1,5 @@
 # 42_fract-ol
-
+![](https://github.com/aamaral-42/42_fract-ol/blob/main/mandelbrot_image.png)
 In this project we are suppose to generate some fractals: Mandelbrot and Julia.
 
 I just loved this project and it will be in a working in progress status for a long time. I have so many improvements in mind to better the result that time will be the problem.
